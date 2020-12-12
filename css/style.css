@@ -1,0 +1,9 @@
+:root {
+  --primary-text-color: ;
+}
+body {
+  font-family: Roboto;
+}
+li {
+  list-style: none;
+}
